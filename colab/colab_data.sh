@@ -1,3 +1,3 @@
-git clone https://github.com/guiwitz/NumpyPandas_course.git
-cp -r NumpyPandas_course/Data /content
-rm -r NumpyPandas_course/
+git clone https://github.com/lcsp-iscap/numpy_pandas.git
+cp -r numpy_pandas/Data /content
+rm -r numpy_pandas/
