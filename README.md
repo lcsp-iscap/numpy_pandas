@@ -1,5 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lcasp-iscap/numpy_pandas/54488164b462644baf601875be69cc911eda9615?urlpath=lab)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lcasp-iscap/numpy_pandas/blob/colab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lcsp-iscap/numpy_pandas/blob/colab)
 
 
 # Introduction to Numpy and Pandas
